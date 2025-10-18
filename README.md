@@ -19,7 +19,12 @@ Download the episodes from the playlist
 Rename the files if needed   
 Create a text file to list the files for `FFMPEG` ( ie: `sk01.txt` )  
 
-Below is a code snippet for `FFMPEG` that will convert your video files before doing the merge. 
+Use the `batch_convert.bat` file to convert your video files before doing the merge.  
+Edit the `bat` file with a text editor if needed.  
+It will find all the video files in a single folder or directory and convert them all to the same bitrate/fps.  
+
+Then use the `FFMPEG` code snippet below to merge the videos, using a text file to list the videos.  
+
 ```
 ffmpeg -f concat -safe 0 -i "C:\Users\corey\Downloads\streetking01\sk01.txt" -c:v libx264 -preset slow -crf 20 -c:a aac -b:a 128k sk01_merge.mp4
 ```
