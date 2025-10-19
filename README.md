@@ -1,7 +1,13 @@
-# English-Subtitles-The-Boss-KDrama-1999
-The Boss 왕초 ‧ KDrama ‧ 1999 [English Subtitles] (aka Street King)  
+# The Boss 왕초 ‧ KDrama ‧ 1999 [English Subtitles] (aka Street King)  
+<div align="center">
+Example of how bad YouTube's `auto transcribe` → `auto translate` feature(s) are. 
 
-# Guide
+[![Watch the video](assets/chrome_XHcIxlGkvA.png)](https://knoeai.github.io/English-Subtitles-The-Boss-KDrama-1999/subs.html)  
+
+<span style="color: green;">Left: my [`knoe.ai`] PTT (Precise Translation Timing) captions</span> &nbsp;&nbsp;&nbsp;   |  &nbsp;&nbsp;&nbsp;  <span style="color: red;">Right: YouTube's "real-time" translated captions</span> 
+</div>  
+
+## Guide
 Go to YouTube and search for the episode number `Street King, 1회`  
 This should also net you the results: https://www.youtube.com/results?search_query=Street+King%2C+1%ED%9A%8C
 
@@ -35,13 +41,30 @@ You might have video files that are .mkv and .mp4 format or different bitrates, 
 If you try to merge those files without converting them, you could run into a headache  
 
 Once you have a single video file for your episode  
-You are now ready to use the subtitle files within this Git repository 
+You are now ready to use the subtitle files within this Git repository  
 
-# Creative Commons License
-Subtitle files in this repository are licensed under Creative Commons Attribution‑ShareAlike 4.0 International (CC BY‑SA 4.0).  
-You may copy, modify, and redistribute these subtitles under the same license provided you give appropriate credit.  
+---  
 
-# Side Notes  
+## 🧾 Creative Commons License
+
+Subtitle files in this repository are licensed under the **Creative Commons Attribution‑ShareAlike 4.0 International (CC BY‑SA 4.0)** license.  
+You may copy, modify, and redistribute these subtitles under the same license, provided you give appropriate credit.
+
+However, you **may not** use these subtitle files:
+- For commercial purposes (e.g., selling or marketing them)
+- As part of any video content that is distributed, marketed, or monetized **without permission** from the original video’s creator or current intellectual property holder
+
+These subtitles are intended for **educational, archival, or personal use only**, in alignment with fair use principles.    
+
+## 🕒 PTT: Precise Translation Timing
+
+**PTT (Precise Translation Timing)** is a custom subtitle synchronization method developed for this project. It ensures that subtitles appear **word-for-word** in perfect alignment with spoken dialogue, enhancing clarity, immersion, and accessibility.
+
+Unlike traditional subtitle formats that rely on scene-based timing or sentence-level cues, PTT delivers **granular, real-time captioning** that mirrors the speaker’s rhythm and pacing. This is especially useful for language learners, accessibility tools, and high-precision translation workflows.  
+
+--- 
+
+## Author Notes  
 Created this `README` fairly quickly. Will update in more detail if need be later.  
 
 While making subtitles for this TV show, reading old articles about the production and details about this TV series.  
@@ -51,4 +74,13 @@ This TV series is about the life of '거지왕' 김춘삼 Kim Chun-sam, known as
 (https://en.namu.wiki/w/%EA%B9%80%EC%B6%98%EC%82%BC)   
 
 The older I get, the more I enjoy reading about history and non-fictional accounts.  
-This was a surprise and made this subtitle project more salient.
+This was a surprise and made this subtitle project more salient.  
+
+---
+
+## ⚖️ Copyright & Usage
+
+> **PTT (Precise Translation Timing)** is a proprietary method created by `knoe.ai`.  
+> All original code, timing logic, and documentation are © 2025 by `knoe.ai`.  
+> The PTT workflow and subtitle creation process are **private and copyrighted**.  
+> Unauthorized reproduction, reverse-engineering, or commercial use of this system without written permission is strictly prohibited.
