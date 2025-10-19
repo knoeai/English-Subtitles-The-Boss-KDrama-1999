@@ -1,8 +1,6 @@
 # English-Subtitles-The-Boss-KDrama-1999
 The Boss 왕초 ‧ KDrama ‧ 1999 [English Subtitles] (aka Street King)  
 
-[![explorer_XjBH1eiqne - Watch Video](https://previews.jumpshare.com/thumb/815bc01b796dd6f1733c957c5af19493015131d6922d17738427572ff8980165497bb16e42651ac3c6c40b2b9ad7f90a3467ac0c68fe6802fd653c2a14e1b2e2430ac5a77bf810c01a39df68befe12db3b3561acb6ed088409f390dd6aca6c5f)](https://jmp.sh/share/2V21GxHQSyA3GLP6TdWL)
-
 # Guide
 Go to YouTube and search for the episode number `Street King, 1회`  
 This should also net you the results: https://www.youtube.com/results?search_query=Street+King%2C+1%ED%9A%8C
