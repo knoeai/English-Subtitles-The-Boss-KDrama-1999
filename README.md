@@ -85,3 +85,12 @@ This was a surprise and made this subtitle project more salient.
 > All original code, timing logic, and documentation are © 2025 by `knoe.ai`.  
 > The PTT workflow and subtitle creation process are **private and copyrighted**.  
 > Unauthorized reproduction, reverse-engineering, or commercial use of this system without written permission is strictly prohibited.
+  
+
+## 📢 Disclaimer
+
+This project is **not affiliated with MBC**, the original broadcaster of *The Boss (왕초)*, or with any current or past rights holders in South Korea, the United States, or elsewhere.  
+To our knowledge, *The Boss (1999)* has not been officially licensed or distributed in the United States.  
+The subtitle files and timing tools provided here are intended for **educational, archival, and non-commercial use only**, in accordance with fair use principles.
+
+If any rights holders or representatives wish to contact us regarding this project, we welcome respectful dialogue and will respond promptly.
