@@ -37,7 +37,7 @@ If you try to merge those files without converting them, you could run into a he
 Once you have a single video file for your episode  
 You are now ready to use the subtitle files within this Git repository 
 
-# License
+# Creative Commons License
 Subtitle files in this repository are licensed under Creative Commons Attribution‑ShareAlike 4.0 International (CC BY‑SA 4.0).  
 You may copy, modify, and redistribute these subtitles under the same license provided you give appropriate credit.  
 
