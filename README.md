@@ -44,7 +44,11 @@ You may copy, modify, and redistribute these subtitles under the same license pr
 # Side Notes  
 Created this `README` fairly quickly. Will update in more detail if need be later.  
 
-While making subtitles for this TV show, reading old articles about the production and details about this TV series. I come to find out that this is a true story.
-This TV series is about the life of '거지왕' 김춘삼 Kim Chun-sam, known as the "King of Beggars. (https://www.chosun.com/site/data/html_dir/2006/11/27/2006112760027.html)   
+While making subtitles for this TV show, reading old articles about the production and details about this TV series.  
+I come to find out that this is a true story.  
+![King of Beggars](https://www.chosun.com/resizer/v2/DRWI25T26TEQEJBWX74R72G6SE.jpg?auth=2bd12229255a936629279f0e6ca38ce78af2507cbacb92f9ed511df7c480deff&width=490&height=354&smart=true)  
+This TV series is about the life of '거지왕' 김춘삼 Kim Chun-sam, known as the "King of Beggars.  
+(https://en.namu.wiki/w/%EA%B9%80%EC%B6%98%EC%82%BC)   
+
 The older I get, the more I enjoy reading about history and non-fictional accounts.  
 This was a surprise and made this subtitle project more salient.
