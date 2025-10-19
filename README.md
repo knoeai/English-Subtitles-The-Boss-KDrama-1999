@@ -42,7 +42,7 @@ You might have video files that are .mkv and .mp4 format or different bitrates, 
 If you try to merge those files without converting them, you could run into a headache  
 
 Once you have a single video file for your episode  
-You are now ready to use the subtitle files within this Git repository  
+You are now ready to use the subtitle files within this repository 📁 [Subtitle Files](subtitles/)  
 
 ---  
 
