@@ -18,6 +18,7 @@ Download the episodes from the playlist
 
 Rename the files if needed   
 Create a text file to list the files for `FFMPEG` ( ie: `sk01.txt` )  
+![Demo of feature](assets/6Y1BI8hPFe.gif)  
 
 Use the `batch_convert.bat` file to convert your video files before doing the merge.  
 Edit the `bat` file with a text editor if needed.  
