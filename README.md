@@ -1,4 +1,5 @@
-# The Boss 왕초 ‧ KDrama ‧ 1999 [English Subtitles] (aka Street King)  
+# The Boss 왕초 ‧ KDrama ‧ 1999 [English Subtitles] (MBC)  
+
 <div align="center">
 Example of how bad YouTube's `auto transcribe` → `auto translate` feature(s) are. 
 
