@@ -41,5 +41,10 @@ You are now ready to use the subtitle files within this Git repository
 Subtitle files in this repository are licensed under Creative Commons Attribution‑ShareAlike 4.0 International (CC BY‑SA 4.0).  
 You may copy, modify, and redistribute these subtitles under the same license provided you give appropriate credit.  
 
-# Glog v1.0  
-Created this `README` fairly quickly. Will update in more detail if need be later. 
+# Side Notes  
+Created this `README` fairly quickly. Will update in more detail if need be later.  
+
+While making subtitles for this TV show, reading old articles about the production and details about this TV series. I come to find out that this is a true story.
+This TV series is about the life of '거지왕' 김춘삼 Kim Chun-sam, known as the "King of Beggars. (https://www.chosun.com/site/data/html_dir/2006/11/27/2006112760027.html)   
+The older I get, the more I enjoy reading about history and non-fictional accounts.  
+This was a surprise and made this subtitle project more salient.
